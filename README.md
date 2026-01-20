@@ -2,7 +2,7 @@
 
 ### 👨‍💻 ERP Analyst & Developer | Mobile Enthusiast
 
-I am a Computer Science student at **UNIVALI** (Universidade do Vale do Itajaí), currently in my 8th semester. I combine strong academic foundations with practical industry experience, specializing in healthcare ERP systems and mobile solutions.
+I am a Computer Science student at **UNIVALI** (Universidade do Vale do Itajaí), currently in my 8th semester.
 
 ---
 
@@ -13,16 +13,14 @@ I am a Computer Science student at **UNIVALI** (Universidade do Vale do Itajaí)
 * 🌍 **Location:** Florianópolis, Santa Catarina, Brazil.
 * 🗣️ **Languages:** Fluent in English, Native Portuguese.
 
-> "Passionate about Computer Science since 2017, dedicating my career to enhancing transparency and efficiency in software systems."
-
 ---
 
 ### 🏆 Key Project Highlight
 
 **📱 Nossa Coop (Flutter App)**
-I spearheaded the development of this mobile application to improve transparency for cooperative members.
+I am one of the main developers of this mobile application, designed to improve transparency for cooperative members.
 * **Tech:** Flutter, Dart, RESTful APIs, ERP Integration.
-* **Impact:** Empowers over **500+ active users**.
+* **Impact:** Empowers over **800+ active users**.
 * **Success:** Maintains a **4.5-star rating** on both Play Store and Apple Store.
 
 ---
