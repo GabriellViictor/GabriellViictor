@@ -1,6 +1,6 @@
 # Hi there, I'm Gabriel Victor! 👋
 
-### 👨‍💻 ERP Analyst & Developer | Mobile Enthusiast
+### 👨‍💻 ERP Analyst & Mobile Developer
 
 I am a Computer Science student at **UNIVALI** (Universidade do Vale do Itajaí), currently in my 8th semester.
 
