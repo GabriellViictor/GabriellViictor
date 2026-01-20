@@ -50,13 +50,3 @@ I am one of the main developers of this mobile application, designed to improve 
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
----
-
-
-### 📫 Connect with me
-
-<p align="left">
-<a href="https://linkedin.com/in/gabrielviictor" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="gabrielviictor" /></a>
-<a href="mailto:gabrielteixeira@edu.univali.br" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
