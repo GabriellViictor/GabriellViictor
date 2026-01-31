@@ -8,18 +8,18 @@
 
 ### About Me
 
-* ** Location:** Florianópolis, Santa Catarina, Brazil
-* ** Education:** B.S. in Computer Science @ UNIVALI (8th Semester)
-* ** Focus:** Mobile Development & UX/UI Design
-* ** Current Role:** ERP Analyst & Developer @ **Sofiti**
-* ** Languages:** Native Portuguese • Fluent English
+* **Location:** Florianópolis, Santa Catarina, Brazil
+* **Education:** B.S. in Computer Science @ UNIVALI (8th Semester)
+* **Focus:** Mobile Development & UX/UI Design
+* **Current Role:** ERP Analyst & Developer @ **Sofiti**
+* **Languages:** Native Portuguese • Fluent English
 
 ---
 
 ### Mobile & UX/UI Development
 
-* ** Nossa Coop:** I am one of the developers for this **Flutter** application, focused on transparency for cooperative members, impacting over 800 active users.
-* ** UX/UI:** Currently enhancing interfaces with a focus on usability, prototyping in **Figma**, and user-centered design methodologies.
+* **Nossa Coop:** I am one of the developers for this **Flutter** application, focused on transparency for cooperative members, impacting over 800 active users.
+* **UX/UI:** Currently enhancing interfaces with a focus on usability, prototyping in **Figma**, and user-centered design methodologies.
 
 ---
 
@@ -53,4 +53,4 @@
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=31398c&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=31398c&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30" width="100%"/>
