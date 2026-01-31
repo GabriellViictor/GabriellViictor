@@ -1,29 +1,29 @@
-# Hello! I'm Gabriel Victor 👋
+# Hello! I'm Gabriel Victor.
 
 <p align="center">
-  ERP Analyst & Mobile Developer | Computer Science Student @ UNIVALI
+  ERP Analyst & Mobile Developer | Computer Science Student @ UNIVALI | UX/UI
 </p>
 
 ---
 
-### ✨ About Me
+### About Me
 
-* **📍 Location:** Florianópolis, Santa Catarina, Brazil
-* **🎓 Education:** B.S. in Computer Science @ UNIVALI (8th Semester)
-* **🎨 Focus:** Mobile Development & UX/UI Design
-* **💼 Current Role:** ERP Analyst & Developer @ **Sofiti**
-* **🗣️ Languages:** Native Portuguese • Fluent English
-
----
-
-### 📱 Mobile & UX/UI Development
-
-* **🚀 Nossa Coop:** I am one of the lead developers for this **Flutter** application, focused on transparency for cooperative members, impacting over 800 active users.
-* **🎨 UX/UI:** Currently enhancing interfaces with a focus on usability, prototyping in **Figma**, and user-centered design methodologies.
+* ** Location:** Florianópolis, Santa Catarina, Brazil
+* ** Education:** B.S. in Computer Science @ UNIVALI (8th Semester)
+* ** Focus:** Mobile Development & UX/UI Design
+* ** Current Role:** ERP Analyst & Developer @ **Sofiti**
+* ** Languages:** Native Portuguese • Fluent English
 
 ---
 
-### 🛠️ Tech Stack
+### Mobile & UX/UI Development
+
+* ** Nossa Coop:** I am one of the developers for this **Flutter** application, focused on transparency for cooperative members, impacting over 800 active users.
+* ** UX/UI:** Currently enhancing interfaces with a focus on usability, prototyping in **Figma**, and user-centered design methodologies.
+
+---
+
+###  Tech Stack
 
 <div align="left">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
@@ -40,17 +40,17 @@
 
 ---
 
-### ✨ Let's Connect!
+### Let's Connect!
 
-*Open to new challenges and growth opportunities*
+*Feel free to get in touch!*
 
 <p align="left">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/gabrielviictor/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:gabrielteixeira@edu.univali.br">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=31398c&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=31398c&height=100&section=footer" width="100%"/>
